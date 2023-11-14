@@ -1,0 +1,48 @@
+GitHub新手指南提纲
+
+I. 引言：什么是GitHub
+简介：GitHub的定义和用途
+GitHub与Git的关系
+II. 注册和设置GitHub账户
+如何注册GitHub账户
+设置个人资料（包括头像、简介）
+配置账户安全性（如启用双因素认证）
+III. 基本概念和术语
+仓库（Repository）
+分支（Branch）
+提交（Commit）
+拉取请求（Pull Request）
+合并（Merge）
+问题（Issue）
+星标（Star）和关注（Watch）
+IV. 创建和管理仓库
+创建新仓库
+克隆（Clone）仓库
+添加文件和提交更改
+理解README文件
+V. 使用分支和拉取请求
+创建和切换分支
+提交更改到分支
+创建拉取请求
+讨论和合并拉取请求
+VI. 与他人合作
+邀请合作者（Collaborator）
+管理仓库权限
+处理问题（Issues）
+使用项目板（Project boards）
+VII. 探索开源项目
+如何查找和参与开源项目
+理解开源许可证
+提交有效的问题和拉取请求
+VIII. GitHub高级功能
+GitHub Actions和自动化
+使用GitHub Pages托管网站
+利用GitHub Gists分享代码片段
+IX. 最佳实践和常见问题
+保持仓库的整洁和组织
+提交消息的良好实践
+如何保持与上游仓库的同步
+解决合并冲突
+X. 结语
+持续学习和资源推荐
+加入GitHub社区
